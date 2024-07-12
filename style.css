@@ -84,5 +84,6 @@ hr {
 }
 
 .item {
-  margin: auto;
+    margin: auto;
+    text-align: left;
 }
